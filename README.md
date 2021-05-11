@@ -1,2 +1,2 @@
-# C-Programming-Homework-1
+# C-Programming-HW-1
 Zeller's Congruence
